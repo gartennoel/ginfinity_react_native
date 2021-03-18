@@ -1,0 +1,12 @@
+{
+  "name": "ginfinity_react_native",
+  "displayName": "ginfinity_react_native",
+  "expo": {
+    "name": "ginfinity_react_native",
+    "slug": "ginfinity_react_native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
